@@ -10,15 +10,15 @@ This project demonstrates page transitions, section animations, and API integrat
 
 ---
 
-## 🌐 Live Preview
+## Live Preview
 *(Optional — tambahkan link jika sudah dideploy, misalnya di Vercel atau Netlify)*  
 [🔗 View Live Demo](https://car-media.vercel.app)
 
 ---
 
-## 🧱 Project Overview
+## Project Overview
 
-### ✅ Requirements Implemented
+### Requirements Implemented
 - **Nuxt 3 App** with 2 pages:  
   - `Home` → displays car photos from Unsplash API  
   - `Detail` → shows detailed view of the selected photo  
@@ -30,14 +30,14 @@ This project demonstrates page transitions, section animations, and API integrat
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 - [Nuxt 3](https://nuxt.com)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Unsplash API](https://unsplash.com/developers)
 - [SCSS](https://sass-lang.com/)
 ---
 
-## 🔑 API Used
+## API Used
 **Unsplash API**  
 Used to fetch car images dynamically.
 
@@ -50,7 +50,7 @@ Example endpoint:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 
 car-media/
@@ -80,27 +80,27 @@ car-media/
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
-### 1️⃣ Clone Repository
+### Clone Repository
 ```bash
 git clone https://github.com/ranggopato/nuxt-3-fleava-car-site
 cd ~folder clone
 ````
 
-### 2️⃣ Install Dependencies
+### Install Dependencies
 
 ```bash
 npm install
 ```
 
-### 3️⃣ Set Up Environment Variables (ga pake env)
+### Set Up Environment Variables (ga pake env)
 
 ```
 UNSPLASH_ACCESS_KEY=your_unsplash_api_key_here <sudah di sediakan disana ga pake env,sorry >
 ```
 
-### 4️⃣ Run Development Server
+### Run Development Server
 
 ```bash
 npm run dev
@@ -128,17 +128,13 @@ http://localhost:3000
 
 **Ranggo Pato**
 [GitHub Profile](https://github.com/ranggopato)
-📧 [patoranggo@gmail.com](mailto:patoranggo@gmail.com)
+[patoranggo@gmail.com](mailto:patoranggo@gmail.com)
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the **MIT License**.
 
 ```
 
----
-
-Apakah kamu ingin saya bantu tambahkan **badge (Nuxt, SCSS, Unsplash, License)** di bagian atas README agar terlihat lebih profesional untuk GitHub?
-```
