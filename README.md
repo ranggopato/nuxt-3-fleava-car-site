@@ -1,9 +1,4 @@
-Berikut contoh **README.md** yang profesional dan sesuai dengan tes yang kamu jelaskan 👇
-
----
-
-```markdown
-# 🚗 Car Media — Nuxt 3 Website
+# Car Media — Nuxt 3 Website
 
 A 2-page Nuxt 3 web application that showcases car-related images fetched dynamically from the **Unsplash API**.  
 This project demonstrates page transitions, section animations, and API integration using `useFetch()`.
