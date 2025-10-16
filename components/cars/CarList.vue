@@ -1,6 +1,6 @@
 <template>
     <div class="card-page">
-        <h1 class="title">Card Hover Effect</h1>
+        <h1 class="title">Your Dream Cars</h1>
 
         <div v-if="error" class="status">Failed to load car images 😢</div>
         <div v-else-if="pending" class="status">Loading car images...</div>

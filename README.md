@@ -7,7 +7,7 @@ This project demonstrates page transitions, section animations, and API integrat
 
 ## Live Preview
 *(Optional — tambahkan link jika sudah dideploy, misalnya di Vercel atau Netlify)*  
-[🔗 View Live Demo](https://car-media.vercel.app)
+[🔗 View Live Demo](https://nuxt-3-fleava-car-site.vercel.app)
 
 ---
 
